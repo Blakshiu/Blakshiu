@@ -18,9 +18,7 @@
 - **Em Estudo:** Spring Boot, SQL, Git e Arquitetura de Microserviços
 
 ## 📈 Estatísticas do GitHub
-[![GitHub Stats](https://vercel.app)](https://github.com)
-[![Top Langs](https://vercel.app)](https://github.com)
-[![GitHub Streak](https://herokuapp.com)](https://github.com)
+[![Blakshiu](https://github-readme-stats.vercel.app/api?username=Blakshiu&theme=shadow_red&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/Blakshiu)
 
 ## 🚀 Projetos em Destaque
 🚧 **Em construção...**
